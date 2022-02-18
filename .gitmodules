@@ -1,0 +1,3 @@
+[submodule "pn7150_driver"]
+	path = pn7150_driver
+	url = git@github.com:Strooom/PN7150.git
